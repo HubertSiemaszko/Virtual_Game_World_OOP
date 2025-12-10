@@ -1,0 +1,569 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huber\\source\\repos\\op proj test2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\\u0179r\u00F3d\u0142o.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\\u0179r\u00F3d\u0142o.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Czlowiek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Czlowiek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Swiat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Swiat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Swiat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Swiat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Organizm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Organizm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Guarana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Guarana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Guarana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Guarana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Organizm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Organizm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Zwierze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Zwierze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Zwierze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Zwierze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Wilk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Wilk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Trawa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Trawa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Ro\u015Blina.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Ro\u015Blina.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\WilczeJagody.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\WilczeJagody.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\WilczeJagody.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\WilczeJagody.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Czlowiek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Czlowiek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\BarszczSosnowskiego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\BarszczSosnowskiego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\BarszczSosnowskiego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\BarszczSosnowskiego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Mlecz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Mlecz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Mlecz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Mlecz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Trawa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Trawa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Ro\u015Blina.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Ro\u015Blina.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Cyberowca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Cyberowca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Cyberowca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Cyberowca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Antylopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Antylopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Antylopa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Antylopa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\\u017B\u00F3\u0142w.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\\u017B\u00F3\u0142w.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\\u017B\u00F3\u0142w.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\\u017B\u00F3\u0142w.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Lis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Lis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Lis.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Lis.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Owca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Owca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Owca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Owca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Wilk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\Wilk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\savegame.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A85E289-FE82-4714-A297-5365719DF9D4}|op proj test2\\op proj test2.vcxproj|solutionrelative:op proj test2\\savegame.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0179r\u00F3d\u0142o.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\\u0179r\u00F3d\u0142o.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\\u0179r\u00F3d\u0142o.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\\u0179r\u00F3d\u0142o.cpp",
+              "RelativeToolTip": "op proj test2\\\u0179r\u00F3d\u0142o.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T20:25:15.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Zwierze.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Zwierze.h",
+              "RelativeDocumentMoniker": "op proj test2\\Zwierze.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Zwierze.h",
+              "RelativeToolTip": "op proj test2\\Zwierze.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T21:44:09.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Swiat.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Swiat.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Swiat.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Swiat.cpp",
+              "RelativeToolTip": "op proj test2\\Swiat.cpp",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T20:22:33.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "savegame.txt",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\savegame.txt",
+              "RelativeDocumentMoniker": "op proj test2\\savegame.txt",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\savegame.txt",
+              "RelativeToolTip": "op proj test2\\savegame.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-26T17:05:43.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Swiat.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Swiat.h",
+              "RelativeDocumentMoniker": "op proj test2\\Swiat.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Swiat.h",
+              "RelativeToolTip": "op proj test2\\Swiat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T20:22:04.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Czlowiek.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Czlowiek.h",
+              "RelativeDocumentMoniker": "op proj test2\\Czlowiek.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Czlowiek.h",
+              "RelativeToolTip": "op proj test2\\Czlowiek.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T00:31:35.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Wilk.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Wilk.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Wilk.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Wilk.cpp",
+              "RelativeToolTip": "op proj test2\\Wilk.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T21:48:22.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cyberowca.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Cyberowca.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Cyberowca.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Cyberowca.cpp",
+              "RelativeToolTip": "op proj test2\\Cyberowca.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T23:54:29.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cyberowca.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Cyberowca.h",
+              "RelativeDocumentMoniker": "op proj test2\\Cyberowca.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Cyberowca.h",
+              "RelativeToolTip": "op proj test2\\Cyberowca.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T23:53:21.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Antylopa.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Antylopa.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Antylopa.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Antylopa.cpp",
+              "RelativeToolTip": "op proj test2\\Antylopa.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T23:50:33.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Czlowiek.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Czlowiek.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Czlowiek.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Czlowiek.cpp",
+              "RelativeToolTip": "op proj test2\\Czlowiek.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T00:32:09.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Antylopa.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Antylopa.h",
+              "RelativeDocumentMoniker": "op proj test2\\Antylopa.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Antylopa.h",
+              "RelativeToolTip": "op proj test2\\Antylopa.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T23:49:04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "\u017B\u00F3\u0142w.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\\u017B\u00F3\u0142w.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\\u017B\u00F3\u0142w.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\\u017B\u00F3\u0142w.cpp",
+              "RelativeToolTip": "op proj test2\\\u017B\u00F3\u0142w.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T23:23:30.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "\u017B\u00F3\u0142w.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\\u017B\u00F3\u0142w.h",
+              "RelativeDocumentMoniker": "op proj test2\\\u017B\u00F3\u0142w.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\\u017B\u00F3\u0142w.h",
+              "RelativeToolTip": "op proj test2\\\u017B\u00F3\u0142w.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T23:22:51.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Lis.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Lis.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Lis.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Lis.cpp",
+              "RelativeToolTip": "op proj test2\\Lis.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T23:21:58.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Lis.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Lis.h",
+              "RelativeDocumentMoniker": "op proj test2\\Lis.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Lis.h",
+              "RelativeToolTip": "op proj test2\\Lis.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T23:21:28.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Owca.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Owca.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Owca.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Owca.cpp",
+              "RelativeToolTip": "op proj test2\\Owca.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T22:47:50.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Owca.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Owca.h",
+              "RelativeDocumentMoniker": "op proj test2\\Owca.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Owca.h",
+              "RelativeToolTip": "op proj test2\\Owca.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T22:47:01.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Wilk.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Wilk.h",
+              "RelativeDocumentMoniker": "op proj test2\\Wilk.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Wilk.h",
+              "RelativeToolTip": "op proj test2\\Wilk.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T21:47:46.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Zwierze.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Zwierze.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Zwierze.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Zwierze.cpp",
+              "RelativeToolTip": "op proj test2\\Zwierze.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T21:46:35.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BarszczSosnowskiego.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\BarszczSosnowskiego.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\BarszczSosnowskiego.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\BarszczSosnowskiego.cpp",
+              "RelativeToolTip": "op proj test2\\BarszczSosnowskiego.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T21:38:38.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BarszczSosnowskiego.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\BarszczSosnowskiego.h",
+              "RelativeDocumentMoniker": "op proj test2\\BarszczSosnowskiego.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\BarszczSosnowskiego.h",
+              "RelativeToolTip": "op proj test2\\BarszczSosnowskiego.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T21:36:59.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WilczeJagody.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\WilczeJagody.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\WilczeJagody.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\WilczeJagody.cpp",
+              "RelativeToolTip": "op proj test2\\WilczeJagody.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T21:30:57.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WilczeJagody.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\WilczeJagody.h",
+              "RelativeDocumentMoniker": "op proj test2\\WilczeJagody.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\WilczeJagody.h",
+              "RelativeToolTip": "op proj test2\\WilczeJagody.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T21:30:26.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Guarana.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Guarana.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Guarana.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Guarana.cpp",
+              "RelativeToolTip": "op proj test2\\Guarana.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T21:28:13.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mlecz.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Mlecz.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Mlecz.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Mlecz.cpp",
+              "RelativeToolTip": "op proj test2\\Mlecz.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T20:56:41.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Mlecz.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Mlecz.h",
+              "RelativeDocumentMoniker": "op proj test2\\Mlecz.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Mlecz.h",
+              "RelativeToolTip": "op proj test2\\Mlecz.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T20:56:09.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Guarana.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Guarana.h",
+              "RelativeDocumentMoniker": "op proj test2\\Guarana.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Guarana.h",
+              "RelativeToolTip": "op proj test2\\Guarana.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T20:55:45.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Trawa.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Trawa.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Trawa.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Trawa.cpp",
+              "RelativeToolTip": "op proj test2\\Trawa.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T20:25:01.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Trawa.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Trawa.h",
+              "RelativeDocumentMoniker": "op proj test2\\Trawa.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Trawa.h",
+              "RelativeToolTip": "op proj test2\\Trawa.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T20:24:39.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ro\u015Blina.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Ro\u015Blina.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Ro\u015Blina.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Ro\u015Blina.cpp",
+              "RelativeToolTip": "op proj test2\\Ro\u015Blina.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T20:24:21.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Ro\u015Blina.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Ro\u015Blina.h",
+              "RelativeDocumentMoniker": "op proj test2\\Ro\u015Blina.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Ro\u015Blina.h",
+              "RelativeToolTip": "op proj test2\\Ro\u015Blina.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T20:23:43.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Organizm.cpp",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Organizm.cpp",
+              "RelativeDocumentMoniker": "op proj test2\\Organizm.cpp",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Organizm.cpp",
+              "RelativeToolTip": "op proj test2\\Organizm.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T20:23:19.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Organizm.h",
+              "DocumentMoniker": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Organizm.h",
+              "RelativeDocumentMoniker": "op proj test2\\Organizm.h",
+              "ToolTip": "C:\\Users\\huber\\source\\repos\\op proj test2\\op proj test2\\Organizm.h",
+              "RelativeToolTip": "op proj test2\\Organizm.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T20:22:57.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
